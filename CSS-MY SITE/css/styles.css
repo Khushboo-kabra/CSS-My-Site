@@ -1,0 +1,117 @@
+.top-container{
+  background-color:#c3edea;
+  font-family:cursive;
+  font-size: 1.25;
+  line-height: 100px
+}
+h1{
+  margin: 0 auto 0;
+  position: relative;
+  top:10.06rem;
+}
+.ram{
+  margin: 0 auto 0;
+  position: relative;
+  top: 159px;
+font-size: 2.5rem;
+color: #66BFBF;
+font-weight: normal;
+}
+body{
+  margin:0px;
+  text-align: center;
+  font-size: 200%;
+}
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position:absolute;
+  left:256px;
+  bottom: 370px;
+  width:185px;
+  height: 89px;
+}
+.mountain{
+  position: relative;
+  top: 304px;
+  height:298px;
+}
+.top-cloud{
+  position:absolute;
+  right: 300px;
+  width:185px;
+  height: 89px;
+}
+.circular{
+  border-radius: 100px;
+  height:150px;
+  width: 150px;
+  position:relative;
+  top: 313px;
+}
+h2{
+  position: relative;
+  top:257px;
+font-family: cursive;
+}
+.text{
+  position: relative;
+  top: 246px;
+}
+.pa{
+  position: relative;
+  top: 232px;
+  font-family: cursive;
+
+}
+.first{
+  position: relative;
+  top: 200px;
+}
+.second{
+  position: relative;
+  top: 230px;
+}
+.middle-container{
+  position: relative;
+  top: 282px;
+}
+.bottom-container{
+  position: relative;
+  top: 250px;
+}
+.pagal{
+  position: relative;
+  top: 200px;
+}
+.contact-me{
+  position: relative;
+  top: 200px;
+}
+.spell{position: relative;
+top: 0px;
+}
+.atlast{
+  position: relative;
+  top: 274px;
+}
+.footer-link{
+  position: relative;
+  top: 277px;
+  color: #66BFBF;
+  text-decoration: none;
+}
+.footer-link{
+  color: #66BFBF;
+}
+#heading{
+color: #66BFBF;
+}
+hr{
+  border-color: grey;
+border-style:none;
+border-top-style: dotted;
+border-width: 4px;
+width:4%;
+}
